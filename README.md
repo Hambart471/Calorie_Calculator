@@ -74,6 +74,5 @@ Contributions, bug reports, and feature requests are welcome! Feel free to open 
 
 ## 💬 Contact
 
-**Your Name**  
 📧 [constantinemalania@gmail.com](mailto:constantinemalania@gmail.com)  
 🔗 [GitHub Profile](https://github.com/Hambart471)
