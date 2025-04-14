@@ -75,8 +75,8 @@ Contributions, bug reports, and feature requests are welcome! Feel free to open 
 ## 💬 Contact
 
 **Your Name**  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [GitHub Profile](https://github.com/YourUsername)
+📧 [constantinemalania@gmail.com](mailto:your.email@example.com)  
+🔗 [[GitHub Profile](https://github.com/Hambart471/)](https://github.com/YourUsername)
 
 ---
 
