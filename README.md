@@ -6,6 +6,18 @@ The **Calorie Calculator** is a **C++ console application** designed to **track 
 
 ---
 
+## 🎥 Demo
+
+| Feature | Preview |
+|--------|---------|
+| **📆 Date Display (Top Left Corner)** | ![](assets/your-gif1.gif) |
+| **🔍 Template Search** | ![](assets/your-gif2.gif) |
+| **➕ Add Custom Food** | ![](assets/your-gif3.gif) |
+| **📅 Calendar Navigation** | ![](assets/your-gif4.gif) |
+| **✏️ Edit Existing Food** | ![](assets/your-gif5.gif) |
+
+---
+
 ## 🗂 Project Structure
 
 - **`constants.h`**  
